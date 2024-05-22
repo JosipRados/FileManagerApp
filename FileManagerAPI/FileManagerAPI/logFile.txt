@@ -1,0 +1,6 @@
+2024-05-22 07:40:14 Move File ERR: Cannot create a file when that file already exists.;FilePath: C:\Users\Josip\Downloads\MapaPrva\Novi tekstni dokument.txt;MovePath: C:\Users\Josip\Downloads\MapaDruga
+2024-05-22 08:28:34 Move File ERR: File does not exists on provided path!;FilePath: C:\Users\Josip\Downloads\MapaPrva\Novi tekstni dokument.txt;MovePath: C:\Users\Josip\Downloads\MapaDruga\Novi tekstni dokument.txt
+2024-05-22 08:29:31 Move File ERR: File does not exists on provided path!;FilePath: C:\Users\Josip\Downloads\MapaPrva\Novi tekstni dokument.txt;MovePath: C:\Users\Josip\Downloads\MapaDruga\Novi tekstni dokument.txt
+2024-05-22 09:21:11 Move File ERR: File with the same name already exists on the given move path!;FilePath: C:\Users\Josip\Downloads\MapaDruga\Novi tekstni dokument.txt;MovePath: C:\Users\Josip\Downloads\MapaDruga\Novi tekstni dokument.txt
+2024-05-22 09:21:39 Move File ERR: File with the same name already exists on the given move path!;FilePath: C:\Users\Josip\Downloads\MapaDruga\Novi tekstni dokument.txt;MovePath: C:\Users\Josip\Downloads\MapaDruga\Novi tekstni dokument.txt
+2024-05-22 09:22:32 Move File ERR: File with the same name already exists on the given move path!;FilePath: C:\Users\Josip\Downloads\MapaDruga\Novi tekstni dokument.txt;MovePath: C:\Users\Josip\Downloads\MapaDruga\Novi tekstni dokument.txt
